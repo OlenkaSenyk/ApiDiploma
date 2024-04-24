@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_diploma", "api_diploma\api_diploma.csproj", "{F2A4AFF8-AD25-4862-A791-C0A965226331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A4AFF8-AD25-4862-A791-C0A965226331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A4AFF8-AD25-4862-A791-C0A965226331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A4AFF8-AD25-4862-A791-C0A965226331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A4AFF8-AD25-4862-A791-C0A965226331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15354B8A-EF28-4646-ABD5-207FCF6B9670}
+	EndGlobalSection
+EndGlobal
